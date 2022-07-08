@@ -7,8 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hi, I am Albert, a Computer Science Researcher and Educator.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I was born in Mpeketoni, a small town in what is today called Lamu County. I grew up in Mombasa where I also attended high school. After High School, I got a scholarship to pursue Computer Engineering in Turkey. I would end up 7 years in Turkey before moving to Spain for my PhD.
+
+I am a Research Scientist at Julich Jülich Supercomputing Centre (JSC) working on the OPTIMA project and involved in several other EU projects. Prior to JSC, I was a researcher at Barcelona Supercomputing Center where I did my PhD in Computer Architectures at The Polytechnic University of Catalonia. My research focuses on Machine Learning in HPC systems. I am also an instructor at JENGA School where I teach Data Science and Programming.
+
+Besides research, I am passionate about education and startups, especially those that revolve around AI and Education. I am the co-founder of Vendani School, a model school in Mombasa on a mission to raise the next generation of thoughtful and bright global leaders in different industries. I am also interested in poverty eradication, especially food prices/shortage in Africa. 
+
 
 A data-driven personal website
 ======
