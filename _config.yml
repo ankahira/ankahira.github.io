@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Albert Kahira"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Globe Trotting Villager || Research Scientist" 
   location         : "Aachen, Germany"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.es/citations?user=L4orVv4AAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Albert-Kahira"
+  researchgate     : "https://www.researchgate.net/profile/Albert-Kahira"
   uri              :
   bitbucket        :
   codepen          :
